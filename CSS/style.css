@@ -6,6 +6,16 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera
+{
+    background: blue;
+    color: white;
+    box-shadow: -11px -29px 77px -8px rgba(27,182,209,1);
+    border-radius: 96px 96px 96px 96px;
+    border: 0px solid #000000;
+    margin: 0;
+    padding: 0.5em;
+}
 #container
 {
     width: 70%;
