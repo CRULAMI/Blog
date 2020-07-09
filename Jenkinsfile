@@ -1,6 +1,6 @@
 node
 {
-  satge('checkout')
+  stage('checkout')
   {
     checkout scm
   }
