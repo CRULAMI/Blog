@@ -2,7 +2,7 @@ node
 {
   stage ('prueba')
   {
-    if (env.GIT_BRANCH == Footer )
+    if (env.GIT_BRANCH == 'Footer' )
     {
       echo "vamos por buen camino"
     }
