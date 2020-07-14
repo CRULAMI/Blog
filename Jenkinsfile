@@ -6,6 +6,7 @@ node
     {
       echo "vamos por buen camino"
     }
+  }
   stage('checkout')
   {
     checkout scm
