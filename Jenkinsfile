@@ -6,6 +6,10 @@ node
     {
       echo "vamos por buen camino"
     }
+    else
+    {
+      echo "Falta algo"
+    }
   }
   stage('checkout')
   {
